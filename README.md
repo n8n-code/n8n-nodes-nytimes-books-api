@@ -53,9 +53,17 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Get best seller list, Get best seller history list, Get best seller list names, Get best seller list overview, Get best seller list by date, Get reviews |
+<details>
+<summary><b>Default</b> (6 operations)</summary>
+
+- Get Best Seller List
+- Get Best Seller History List
+- Get Best Seller List Names
+- Get Best Seller List Overview
+- Get Best Seller List by Date
+- Get Reviews
+
+</details>
 
 ---
 

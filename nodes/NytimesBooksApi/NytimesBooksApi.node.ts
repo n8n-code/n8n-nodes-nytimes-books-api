@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class NytimesBooksApi implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'nytimes-books-api',
+		displayName: 'Nytimes Books API',
 		name: 'N8nDevNytimesBooksApi',
 		icon: { light: 'file:./nytimes-books-api.png', dark: 'file:./nytimes-books-api.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Books API provides information about book reviews and The New York Times bestsellers lists',
-		defaults: { name: 'nytimes-books-api' },
+		defaults: { name: 'Nytimes Books API' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

@@ -8,7 +8,7 @@ import type {
 export class NytimesBooksApiApi implements ICredentialType {
 	name = 'N8nDevNytimesBooksApiApi';
 
-	displayName = 'nytimes-books-api API';
+	displayName = 'Nytimes Books API';
 
 	icon: Icon = { light: 'file:../nodes/NytimesBooksApi/nytimes-books-api.png', dark: 'file:../nodes/NytimesBooksApi/nytimes-books-api.dark.png' };
 
@@ -22,7 +22,7 @@ export class NytimesBooksApiApi implements ICredentialType {
 			default: 'https://api.nytimes.com/svc/books/v3',
 			required: true,
 			placeholder: 'https://api.nytimes.com/svc/books/v3',
-			description: 'The base URL of your nytimes-books-api API server',
+			description: 'The base URL of your Nytimes Books API server',
 		},
 		{
 			displayName: 'API Key',

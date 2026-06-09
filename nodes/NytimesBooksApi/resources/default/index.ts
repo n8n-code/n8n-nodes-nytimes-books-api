@@ -27,8 +27,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "GET Lists Best Sellers History Json",
-					"value": "GET Lists Best Sellers History Json",
+					"name": "GET Lists Best Sellers History JSON",
+					"value": "GET Lists Best Sellers History JSON",
 					"action": "Best Seller History List",
 					"description": "Best Seller History List",
 					"routing": {
@@ -63,8 +63,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "GET Lists Date List Json",
-					"value": "GET Lists Date List Json",
+					"name": "GET Lists Date List JSON",
+					"value": "GET Lists Date List JSON",
 					"action": "Best Seller List by Date",
 					"description": "Best Seller List by Date",
 					"routing": {
@@ -369,7 +369,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "security_api_key",
 			"type": "string",
 			"default": "",
@@ -408,7 +408,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -433,7 +433,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -458,7 +458,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -483,7 +483,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -508,7 +508,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -533,7 +533,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -558,7 +558,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -583,13 +583,13 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "security_api_key",
 			"type": "string",
 			"default": "",
@@ -609,7 +609,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Best Sellers History Json"
+						"GET Lists Best Sellers History JSON"
 					]
 				}
 			}
@@ -634,7 +634,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api-key",
 			"default": "",
 			"type": "string",
@@ -658,7 +658,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "security_api_key",
 			"type": "string",
 			"default": "",
@@ -728,7 +728,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api-key",
 			"default": "",
 			"type": "string",
@@ -752,7 +752,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "security_api_key",
 			"type": "string",
 			"default": "",
@@ -791,7 +791,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -816,7 +816,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -841,7 +841,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -866,7 +866,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -891,7 +891,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -916,7 +916,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -941,7 +941,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -966,7 +966,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -991,7 +991,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -1026,13 +1026,13 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "security_api_key",
 			"type": "string",
 			"default": "",
@@ -1052,7 +1052,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"GET Lists Date List Json"
+						"GET Lists Date List JSON"
 					]
 				}
 			}
@@ -1152,7 +1152,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api-key",
 			"default": "",
 			"type": "string",
@@ -1176,7 +1176,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "security_api_key",
 			"type": "string",
 			"default": "",
